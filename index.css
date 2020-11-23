@@ -24,13 +24,14 @@
 
 #dog-bar span {
   height: 80%;
-  width: 8vw;
+  width: 8.5vw;
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 2em;
   border: 1px solid blue;
-}
+  /* padding: 2px, 4px, 2px, 4px;*/
+} 
 
 #dog-summary-container {
   height: 75vh;
